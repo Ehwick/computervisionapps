@@ -11,7 +11,7 @@ ii. By toggling the drawing function on and off, the user can write and draw wit
 ![Drawing 'hi!'](/assets/hi.png)
 
 ## Text recognition app
- The second app is a text recognition app that uses a Tesseract OCR engine, powered by TensorFlow, to allow for text recognition. Here the screen is flipped to allow for proper text display, a screenshot is taken, it is greycasted, and then Tesseract is use to return the attempt at recognition in the terminal.
+ The second app is a text recognition app that uses a Tesseract OCR engine, powered by TensorFlow, to allow for text recognition. Here the screen is flipped to allow for proper text display, a screenshot is taken, it is greyscaled, and then Tesseract is use to return the attempt at recognition in the terminal.
 
 i. The user can hold up text to the webcam and then press the 'Recognize Text' button. For optimal recognition, lighting should be appropriate and even, with minimum glare, and text should be clear and legible.
 ![Screenshot before text recognition](/assets/captured_image.jpg)
