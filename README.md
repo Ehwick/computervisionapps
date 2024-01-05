@@ -2,7 +2,7 @@
 This project hosts two apps at once that use the tkinter and computer vision libraries. 
 
 ## Drawing app
- The first app is a drawing board that uses the mediapipe library, which allows us to create a hand mesh and follow our pointer-finger landmark, thereby allowing the user to draw by clicking on the webcam to toggle the drawing functions as on and off. 
+ The first app is a drawing board that uses the mediapipe library, which allows us to create a hand mesh and follow our pointer-finger landmark. The webcam screen can be clicked to toggle the drawing function on and off, thereby allowing the user to draw with breaks in the paint.
 
 i. Handmesh created using the mediapipe library and landmark recognition
 ![handmesh using mediapipe](/assets/handmesh.png)
