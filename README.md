@@ -10,7 +10,7 @@ i. Handmesh created using the mediapipe library and landmark recognition
 ii. By toggling the drawing function on and off, the user can write and draw with breaks in between words and punctuation
 ![Drawing 'hi!'](/assets/hi.png)
 
-## Drawing app
+## Text recognition app
  The second app is a text recognition app that uses a Tesseract OCR engine, powered by TensorFlow, to allow for text recognition. Here the screen is flipped to allow for proper text display, a screenshot is taken, it is greycasted, and then Tesseract is use to return the attempt at recognition in the terminal.
 
 i. The user can hold up text to the webcam and then press the 'Recognize Text' button. For optimal recognition, lighting should be appropriate and even, with minimum glare, and text should be clear and legible.
